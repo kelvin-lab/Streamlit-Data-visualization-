@@ -36,3 +36,12 @@ Este proyecto fue desarrollado por Kelvin Trujillo (kelvintrujillo58@gmail.com).
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
+
+## Demostración
+
+Aquí hay una demostración de la aplicación:
+
+![Demo de la aplicación](https://streamlit-data-visualization.onrender.com/)
+
+Puedes acceder a la aplicación en vivo [aquí](https://streamlit-data-visualization.onrender.com/).
+
