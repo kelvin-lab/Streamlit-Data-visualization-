@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = 9090
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 9090
